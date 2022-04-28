@@ -34,7 +34,7 @@ function UsersTable({ isLoading, users, hasError, errorMessage }: UsersTableProp
                       hoverBackgroundColorName='primaryLight'
                       backgroundColorName={index % 2 === 0 ? 'gray1' : 'transparent'}
                     >
-                      <Table.Cell>
+                      <Table.Cell height={85}>
                         <Image
                           width={60}
                           borderRadius="50%"
