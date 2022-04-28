@@ -1,0 +1,1 @@
+export { default as useGithubSearch } from './useGithubSearch';
