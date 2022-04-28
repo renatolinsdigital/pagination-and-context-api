@@ -1,6 +1,6 @@
 # Pagination and context API
 
-This project implements a pagination system (based on Github users) with the help of React's Context API. If you want to see it running, check this [Demo](https://xyz.netlify.app)
+This project implements a pagination system (based on Github users) with the help of React's Context API. If you want to see it running, check this [Demo](https://pagination-with-context-api.netlify.app)
 
 ![Print](print/print.png)
 
