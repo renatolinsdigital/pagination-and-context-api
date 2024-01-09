@@ -8,7 +8,7 @@ This project implements a pagination system (based on Github users) with the hel
 
 1) Install dependencies by running the command: ```yarn```
 
-2) Run the app with: ```yarn start```
+2) Run the app with: ```yarn dev```
 
 # Using the app
 
